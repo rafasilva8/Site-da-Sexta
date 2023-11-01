@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  body {
+    color: rgb(206, 209, 13);
+  }
+ 
+  h1 {
+    text-shadow: 2px 2px rgb(13, 204, 23);
+  }
+ #imag3 {width: 300px}
+ #imag1 {width:  300px}
+ h4 {
+  text-align: center;}
+  h2 {
+    text-shadow: 0 0 3px #ffe600, 0 0 5px #01015a;
+  }
+  h4 {
+    color: rgb(194, 5, 5);
+  }
+  h3 {
+    text-align: center;
+    color: rgb(18, 5, 194)}
+
+    h3 {
+        text-decoration-line: underline;
+        text-decoration-color: green;}
+
+        .p1 {
+            font-family: "Times New Roman"
+          }
+          body {
+            background-color: lightblue;
+          }
+          
+          h1 {
+            color: white;
+            text-align: center;
+          }
+          
+          p {
+            font-family: verdana;
+          }
+          
